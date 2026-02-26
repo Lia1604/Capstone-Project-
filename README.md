@@ -22,10 +22,13 @@ Cara Menggunakan Progam
 
 Info Login
 Username = Rsadmin
+
 Password = Admin123
 
 Cara Menjalankan Aplikasi
   Sebelum di-run, pastikan untuk install library tambahan yang digunakan:
+  
   pip install prettytable
+
   
   lalu jalankan filenya: Luthfi - Capstone Project Modul 1.py
